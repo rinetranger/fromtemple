@@ -1,0 +1,247 @@
+
+#header{
+    z-index: 9999;
+    position: fixed;
+    width:100%;
+    top: 0px;
+    left: 0px;
+    height: 120px;
+    background-color: aliceblue;
+ }
+#back-image0{
+    margin-top: 120px;
+    background-image: url(../image/backimage2.png);
+    background-repeat: no-repeat;
+    width:100%;
+    height:700px;
+    background-size: cover;
+    position: relative;
+}
+#h1{
+    position:absolute;
+    top :30%;
+    left:30%;
+}
+
+#main2{
+    position:absolute;
+    height:130%;
+    width:100%;
+    top:100%;
+    left:0%;
+}
+#title02{
+    margin:100px;
+    text-align: center;
+    font-size: 35px;
+}
+#main3{
+    position:absolute;
+    height:100%;
+    width:100%;
+    top:230%;
+    left:0%;
+}
+
+#title03{
+    margin:25px;
+    text-align: center;
+    font-size: 35px;
+}
+#subtitle03{
+    margin:25px;
+    text-align: center;
+    font-size: 25px;
+}
+
+
+#image01{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:250%;
+    left:0px;
+    overflow: hidden;
+}
+
+#list01{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:250%;
+    left:50%;
+    padding:20px;
+
+
+}
+#image02{
+    
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:300%;
+    left:50%;
+    overflow: hidden;
+}
+#list02{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:300%;
+    left:0;
+    padding:20px;
+
+}
+
+#image03{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:350%;
+    left:0px;
+    overflow: hidden;
+}
+
+#list03{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:350%;
+    left:50%;
+    padding:20px;
+
+}
+#image04{
+    
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:400%;
+    left:50%;
+    overflow: hidden;
+}
+#list04{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:400%;
+    left:0;
+    padding:20px;
+
+}
+
+#image05{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:450%;
+    left:0px;
+    overflow: hidden;
+}
+
+#list05{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:450%;
+    left:50%;
+    padding:20px;
+
+}
+#image06{
+    
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:500%;
+    left:50%;
+    overflow: hidden;
+}
+#list06{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:500%;
+    left:0;
+    padding:20px;
+
+}
+#image07{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:550%;
+    left:0px;
+    overflow: hidden;
+}
+
+#list07{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:550%;
+    left:50%;
+    padding:20px;
+
+}
+#image08{
+    
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:600%;
+    left:50%;
+    overflow: hidden;
+}
+#list08{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:600%;
+    left:0;
+    padding:20px;
+
+}
+
+#main4{
+    position: absolute;
+    top : 650%;
+    height: 100%;
+    width: 100%;
+
+}
+
+#title04{
+    margin:45px;
+    text-align: center;
+    font-size: 35px;
+}
+#subtitle04{
+    margin:25px;
+    text-align: center;
+    font-size: 25px;
+}
+#main5{
+    position: absolute;
+    top : 750%;
+    height: 100%;
+    width: 100%;
+
+}
+#image10{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:750%;
+    left:0px;
+    overflow: hidden;
+}
+
+#list10{
+    position: absolute;
+    height:50%;
+    width:100%;
+    top:750%;
+    left:50%;
+    padding:20px; 
+}
